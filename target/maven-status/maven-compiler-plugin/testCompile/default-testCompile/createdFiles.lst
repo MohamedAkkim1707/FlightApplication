@@ -1,0 +1,6 @@
+com/afklm/flightapplicationdemo/Util/ErrorUtilTest.class
+com/afklm/flightapplicationdemo/FlightDemoApplicationTests.class
+com/afklm/flightapplicationdemo/service/FlightServiceTest.class
+com/afklm/flightapplicationdemo/validation/FlightValidationTest.class
+com/afklm/flightapplicationdemo/mapper/FlightDomainToDaoMapperTest.class
+com/afklm/flightapplicationdemo/mapper/FlightDaoToDomainMapperTest.class
